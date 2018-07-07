@@ -1,8 +1,3 @@
-# flutter_pics
+# Flutter Pics App
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A project about generate pictures just by clicking on the floating action button. Using Flutter + Dart
